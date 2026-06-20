@@ -4,7 +4,7 @@
 - Eric Rene Cisneros
 - Lorena Martin
 - Guillermo Habibi
-- 
+- Roman Alberto Paez
 ## Carrera
 Técnicatura en Telecomunicaciones
 ## Materia
