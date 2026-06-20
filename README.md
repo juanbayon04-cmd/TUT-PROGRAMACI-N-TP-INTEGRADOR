@@ -3,7 +3,7 @@
 - Juan Carlos Bayón Robledo
 - Eric Rene Cisneros
 - Lorena Martin
-- Guillermo Fabio Habibi
+- Guillermo Habibi
 - 
 ## Carrera
 Técnicatura en Telecomunicaciones
